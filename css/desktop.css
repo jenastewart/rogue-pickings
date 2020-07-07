@@ -1,0 +1,38 @@
+/* 
+
+.container{
+	max-width: 1200px;
+	margin: 0 auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-flow: row wrap;
+}
+header h1 {
+    border-bottom: none:
+    padding: 38px 0;
+}
+
+header nav {
+	padding: 46px 0;
+}
+
+header nav ul li {
+    padding: 0 10px;
+}
+
+
+.section-one,
+.section-two,
+.section-three {
+    width: 33%; 
+} 
+    */
+    /* .section-one {
+	padding-left: 30px;
+} */
+
+/* .section-two {
+	border-left: 1px solid #eee;
+	border-right: 1px solid #eee;
+} */

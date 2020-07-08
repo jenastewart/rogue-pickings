@@ -10,7 +10,7 @@ body {
 	
 }
 
-.container{
+.container {
 	max-width: 1200px;
 	margin: 0 auto;
 	display: flex;
@@ -49,15 +49,11 @@ p {
 
 /*The widths are in a percentage!*/
 header {
-	margin: 0 auto;
 	display: flex;
-	justify-content: center;
 	align-items: center;
-	flex-flow: column;
 }
 
 header h1 {
-	border-bottom: 3px solid #77a466;
 	margin: 0;
 	padding: 20px 0;
 }
@@ -67,7 +63,6 @@ header h1 span {
 
 header nav {
 	padding: 10px 0;
-	
 }
 
 header nav ul {
@@ -119,9 +114,8 @@ header nav ul li a{
 .section-two,
 .section-three {
 	width: 100%;
-	margin: 0 auto;
+	margin: 0;
 	justify-content: flex-start;
-	/* border-top: 1px solid #eee; */
 }
 
 .section-one h4 {
